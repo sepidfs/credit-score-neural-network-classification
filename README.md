@@ -1,4 +1,3 @@
-# credit-score-neural-network-classification
 # Credit Score Neural Network Classification
 
 This repository presents a machine learning and deep learning–based solution for **credit score classification**, designed to assist financial institutions in assessing customer creditworthiness more accurately and efficiently. The project focuses on automating credit score categorization using **Neural Network models** and data-driven insights.
